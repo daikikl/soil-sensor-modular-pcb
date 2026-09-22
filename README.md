@@ -132,7 +132,7 @@ This repository documents the earlier modular soil-monitoring platform and its h
 
 ![Prototype overview](3D_2-PCB_PCB_Soil-parameters-measurement_2026-09-22.png)
 
-![Internal hardware](images/internal-hardware.jpg)
+![Internal hardware](final_prototype_soil_sensor_measurement.jpg)
 
 ## License
 
